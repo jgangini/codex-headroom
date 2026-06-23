@@ -1,0 +1,68 @@
+﻿{
+  "v": 3,
+  "ts": "2026-06-22T22:35:00Z",
+  "ok": true,
+  "session": {
+    "req": 122,
+    "saved": 56935,
+    "usd": 0.280357,
+    "pct": 0.59,
+    "input": 9633040,
+    "last": "2026-06-22T22:34:31Z"
+  },
+  "live": {
+    "rtkCmd": 3,
+    "rtkSaved": 704,
+    "rtkPct": 20.8,
+    "proxy": "healthy",
+    "uptime": 4693
+  },
+  "views": {
+    "day": {
+      "title": "USD by hour",
+      "consumed_usd": 50.97,
+      "saved_usd": 2.30,
+      "input_tokens": 9633040,
+      "saved_tokens": 56935,
+      "avg_pct": 4.51,
+      "series": [
+        { "label": "09h", "consumed_usd": 6, "saved_usd": 0.21, "input": 1200000, "saved": 8000, "input_tokens": 1200000, "saved_tokens": 8000 },
+        { "label": "12h", "consumed_usd": 11, "saved_usd": 0.45, "input": 2100000, "saved": 12000, "input_tokens": 2100000, "saved_tokens": 12000 },
+        { "label": "15h", "consumed_usd": 14, "saved_usd": 0.62, "input": 2500000, "saved": 14000, "input_tokens": 2500000, "saved_tokens": 14000 },
+        { "label": "18h", "consumed_usd": 10, "saved_usd": 0.48, "input": 1900000, "saved": 11000, "input_tokens": 1900000, "saved_tokens": 11000 },
+        { "label": "21h", "consumed_usd": 9.97, "saved_usd": 0.54, "input": 1933040, "saved": 11935, "input_tokens": 1933040, "saved_tokens": 11935 }
+      ]
+    },
+    "week": {
+      "title": "USD by day",
+      "consumed_usd": 126.42,
+      "saved_usd": 5.66,
+      "input_tokens": 24133040,
+      "saved_tokens": 152935,
+      "avg_pct": 4.48,
+      "series": [
+        { "label": "16/06", "consumed_usd": 17.5, "saved_usd": 0.81, "input": 3300000, "saved": 21000, "input_tokens": 3300000, "saved_tokens": 21000 },
+        { "label": "17/06", "consumed_usd": 18.2, "saved_usd": 0.79, "input": 3500000, "saved": 20000, "input_tokens": 3500000, "saved_tokens": 20000 },
+        { "label": "18/06", "consumed_usd": 16.9, "saved_usd": 0.72, "input": 3100000, "saved": 18500, "input_tokens": 3100000, "saved_tokens": 18500 },
+        { "label": "19/06", "consumed_usd": 20.0, "saved_usd": 0.95, "input": 3900000, "saved": 24000, "input_tokens": 3900000, "saved_tokens": 24000 },
+        { "label": "20/06", "consumed_usd": 14.3, "saved_usd": 0.61, "input": 2700000, "saved": 17000, "input_tokens": 2700000, "saved_tokens": 17000 },
+        { "label": "21/06", "consumed_usd": 19.4, "saved_usd": 0.78, "input": 3630000, "saved": 21500, "input_tokens": 3630000, "saved_tokens": 21500 },
+        { "label": "22/06", "consumed_usd": 20.12, "saved_usd": 1.00, "input": 5003040, "saved": 30935, "input_tokens": 5003040, "saved_tokens": 30935 }
+      ]
+    },
+    "month": {
+      "title": "USD by week",
+      "consumed_usd": 421.73,
+      "saved_usd": 16.54,
+      "input_tokens": 85332509,
+      "saved_tokens": 480011,
+      "avg_pct": 3.92,
+      "series": [
+        { "label": "W1", "consumed_usd": 88.4, "saved_usd": 3.9, "input": 18100000, "saved": 110000, "input_tokens": 18100000, "saved_tokens": 110000 },
+        { "label": "W2", "consumed_usd": 102.8, "saved_usd": 4.82, "input": 21000000, "saved": 128000, "input_tokens": 21000000, "saved_tokens": 128000 },
+        { "label": "W3", "consumed_usd": 117.3, "saved_usd": 5.12, "input": 23300000, "saved": 142000, "input_tokens": 23300000, "saved_tokens": 142000 },
+        { "label": "W4", "consumed_usd": 113.23, "saved_usd": 2.70, "input": 22932509, "saved": 100011, "input_tokens": 22932509, "saved_tokens": 100011 }
+      ]
+    }
+  }
+}

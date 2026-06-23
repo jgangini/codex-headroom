@@ -1,0 +1,28 @@
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Project-local tooling and caches
+.platformio-local/
+.codex-camera-packages/
+firmware/.pio/
+firmware/.pio-tempbuild/
+publish-staging/
+
+# Runtime and generated artifacts
+*.log
+*.tmp
+outputs/
+backups/
+_snippet.txt
+
+# User-specific startup/runtime folders
+.headroom/
+

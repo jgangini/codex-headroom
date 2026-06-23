@@ -1,0 +1,480 @@
+{
+  "communities": {
+    "0": [
+      "jsonarrayconst",
+      "jsonvariantconst",
+      "periodmode",
+      "src_main_aggregate",
+      "src_main_aggregate_cost",
+      "src_main_aggregate_input",
+      "src_main_aggregate_saved",
+      "src_main_aggregate_usd",
+      "src_main_aggregatefromview",
+      "src_main_aggregaterange",
+      "src_main_asfloat",
+      "src_main_asuint",
+      "src_main_buildlegacyviewsfromstate",
+      "src_main_clearview",
+      "src_main_computeavgpct",
+      "src_main_copystring",
+      "src_main_defaultcharttitle",
+      "src_main_parsechartarray",
+      "src_main_parseframe",
+      "src_main_parseview",
+      "src_main_viewhasdata",
+      "src_main_viewpoint",
+      "src_main_viewpoint_cost",
+      "src_main_viewpoint_input",
+      "src_main_viewpoint_label",
+      "src_main_viewpoint_saved",
+      "src_main_viewpoint_usd",
+      "src_main_viewstats",
+      "src_main_viewstats_avgpct",
+      "src_main_viewstats_cost",
+      "src_main_viewstats_input",
+      "src_main_viewstats_pointcount",
+      "src_main_viewstats_points",
+      "src_main_viewstats_saved",
+      "src_main_viewstats_title",
+      "src_main_viewstats_usd"
+    ],
+    "1": [
+      "scripts_render_ui_preview_v3",
+      "scripts_render_ui_preview_v3_draw_alertindicator",
+      "scripts_render_ui_preview_v3_draw_card",
+      "scripts_render_ui_preview_v3_draw_centeredtext",
+      "scripts_render_ui_preview_v3_draw_chart",
+      "scripts_render_ui_preview_v3_draw_footer",
+      "scripts_render_ui_preview_v3_draw_header",
+      "scripts_render_ui_preview_v3_draw_heart",
+      "scripts_render_ui_preview_v3_draw_metricvalue",
+      "scripts_render_ui_preview_v3_draw_roundrect",
+      "scripts_render_ui_preview_v3_draw_settings",
+      "scripts_render_ui_preview_v3_draw_stepperbutton",
+      "scripts_render_ui_preview_v3_draw_textfit",
+      "scripts_render_ui_preview_v3_draw_thresholdrow",
+      "scripts_render_ui_preview_v3_draw_timezonecombo",
+      "scripts_render_ui_preview_v3_draw_timezonemenuoverlay",
+      "scripts_render_ui_preview_v3_draw_valuerow",
+      "scripts_render_ui_preview_v3_draw_waitingscreen",
+      "scripts_render_ui_preview_v3_fill_roundrect",
+      "scripts_render_ui_preview_v3_format_chartxlabel",
+      "scripts_render_ui_preview_v3_format_money",
+      "scripts_render_ui_preview_v3_format_shortnumber",
+      "scripts_render_ui_preview_v3_get_aggregate",
+      "scripts_render_ui_preview_v3_get_chartpoints",
+      "scripts_render_ui_preview_v3_get_chartstep",
+      "scripts_render_ui_preview_v3_get_charttitle",
+      "scripts_render_ui_preview_v3_get_charttop",
+      "scripts_render_ui_preview_v3_get_previewframe",
+      "scripts_render_ui_preview_v3_get_timezonevalue",
+      "scripts_render_ui_preview_v3_new_color",
+      "scripts_render_ui_preview_v3_new_fixtureframe",
+      "scripts_render_ui_preview_v3_new_font",
+      "scripts_render_ui_preview_v3_s"
+    ],
+    "2": [
+      "scripts_headroom_live_bridge",
+      "scripts_headroom_live_bridge_add_bucketvalues",
+      "scripts_headroom_live_bridge_build_dayview",
+      "scripts_headroom_live_bridge_build_monthview",
+      "scripts_headroom_live_bridge_build_views",
+      "scripts_headroom_live_bridge_build_weekview",
+      "scripts_headroom_live_bridge_close_serialport",
+      "scripts_headroom_live_bridge_convert_hourlyrow",
+      "scripts_headroom_live_bridge_convert_tonumber",
+      "scripts_headroom_live_bridge_convert_tooffsetdatetime",
+      "scripts_headroom_live_bridge_convert_touint",
+      "scripts_headroom_live_bridge_convertto_hrmline",
+      "scripts_headroom_live_bridge_get_firstvalue",
+      "scripts_headroom_live_bridge_get_nextmonthbucketstart",
+      "scripts_headroom_live_bridge_get_timezoneoffset",
+      "scripts_headroom_live_bridge_get_weekstart",
+      "scripts_headroom_live_bridge_handle_controlpayload",
+      "scripts_headroom_live_bridge_handle_serialinput",
+      "scripts_headroom_live_bridge_invoke_headroomjson",
+      "scripts_headroom_live_bridge_new_headroomframe",
+      "scripts_headroom_live_bridge_new_seriespoint",
+      "scripts_headroom_live_bridge_new_view",
+      "scripts_headroom_live_bridge_new_zerobucket",
+      "scripts_headroom_live_bridge_normalize_timezoneoffset",
+      "scripts_headroom_live_bridge_open_serialport",
+      "scripts_headroom_live_bridge_open_serialsession",
+      "scripts_headroom_live_bridge_resolve_serialport",
+      "scripts_headroom_live_bridge_round_usd",
+      "scripts_headroom_live_bridge_test_recoverableserialexception",
+      "scripts_headroom_live_bridge_wait_bridgeinterval",
+      "scripts_headroom_live_bridge_write_bridgeerror",
+      "scripts_headroom_live_bridge_write_bridgelog"
+    ],
+    "3": [
+      "scripts_render_ui_preview_v3_core",
+      "scripts_render_ui_preview_v3_core_draw_card",
+      "scripts_render_ui_preview_v3_core_draw_chart",
+      "scripts_render_ui_preview_v3_core_draw_footer",
+      "scripts_render_ui_preview_v3_core_draw_header",
+      "scripts_render_ui_preview_v3_core_draw_oraclemark",
+      "scripts_render_ui_preview_v3_core_draw_roundrect",
+      "scripts_render_ui_preview_v3_core_draw_settings",
+      "scripts_render_ui_preview_v3_core_draw_settingsicon",
+      "scripts_render_ui_preview_v3_core_draw_text",
+      "scripts_render_ui_preview_v3_core_draw_waiting",
+      "scripts_render_ui_preview_v3_core_fill_roundrect",
+      "scripts_render_ui_preview_v3_core_format_currency",
+      "scripts_render_ui_preview_v3_core_format_tokens",
+      "scripts_render_ui_preview_v3_core_get_activeview",
+      "scripts_render_ui_preview_v3_core_get_alertcolor",
+      "scripts_render_ui_preview_v3_core_get_charttickstep",
+      "scripts_render_ui_preview_v3_core_get_charttopvalue",
+      "scripts_render_ui_preview_v3_core_get_nextmonthbucketstart",
+      "scripts_render_ui_preview_v3_core_get_previewframe",
+      "scripts_render_ui_preview_v3_core_get_timezoneoffsetminutes",
+      "scripts_render_ui_preview_v3_core_get_weekstart",
+      "scripts_render_ui_preview_v3_core_new_color",
+      "scripts_render_ui_preview_v3_core_new_fixtureframe",
+      "scripts_render_ui_preview_v3_core_new_font",
+      "scripts_render_ui_preview_v3_core_new_roundrectpath",
+      "scripts_render_ui_preview_v3_core_new_seriespoint",
+      "scripts_render_ui_preview_v3_core_new_view",
+      "scripts_render_ui_preview_v3_core_s"
+    ],
+    "4": [
+      "src_main",
+      "src_main_applytimezoneoffset",
+      "src_main_averagepair",
+      "src_main_charttitle",
+      "src_main_civilfromdays",
+      "src_main_computecalibration",
+      "src_main_daysfromcivil",
+      "src_main_drawalertsconfig",
+      "src_main_drawstepperbutton",
+      "src_main_drawthresholdrow",
+      "src_main_drawtimezonecombo",
+      "src_main_formatchartxlabel",
+      "src_main_formatrangelabel",
+      "src_main_formattimezonelabel",
+      "src_main_formattimezonelabelforoffset",
+      "src_main_formattimezonevalue",
+      "src_main_handlecalibrationtouch",
+      "src_main_modename",
+      "src_main_parsefixedint",
+      "src_main_parsetimestampparts",
+      "src_main_resettouchcalibration",
+      "src_main_sampletouchpoint",
+      "src_main_savetouchcalibration",
+      "src_main_solveaxis"
+    ],
+    "5": [
+      "src_main_begincalibration",
+      "src_main_changethreshold",
+      "src_main_cleardisplaymemory",
+      "src_main_cyclemode",
+      "src_main_drawtimezonemenuoverlay",
+      "src_main_handlecommand",
+      "src_main_handletouch",
+      "src_main_loadmonitorsettings",
+      "src_main_maybeannouncebridgeready",
+      "src_main_normalizetimezoneoffset",
+      "src_main_readserial",
+      "src_main_runtouchaction",
+      "src_main_savemonitorsettings",
+      "src_main_selectmode",
+      "src_main_sendbridgecontrolstate",
+      "src_main_setup",
+      "src_main_synctimezonemenuwindow",
+      "src_main_timezoneoffsetfromoptionindex",
+      "src_main_timezoneoptioncount",
+      "src_main_timezoneoptionindexfromoffset"
+    ],
+    "6": [
+      "src_main_advancewaitingmatrix",
+      "src_main_charttickstep",
+      "src_main_charttopvalue",
+      "src_main_drawalerticonbutton",
+      "src_main_drawcalibrationscreen",
+      "src_main_drawcalibrationtarget",
+      "src_main_drawchart",
+      "src_main_drawheader",
+      "src_main_drawlogo",
+      "src_main_drawtab",
+      "src_main_drawwaitingmatrix",
+      "src_main_initwaitingmatrix",
+      "src_main_loop",
+      "src_main_panely",
+      "src_main_pushui",
+      "src_main_renderscreen",
+      "src_main_renderwaitingscreen",
+      "src_main_resetwaitingmatrixcolumn",
+      "src_main_rgb"
+    ],
+    "7": [
+      "src_main_actionforpoint",
+      "src_main_applytouchtransform",
+      "src_main_composetransform",
+      "src_main_findbesttouchcandidate",
+      "src_main_isheaderaction",
+      "src_main_loadtouchcalibration",
+      "src_main_mapcalibratedtouch",
+      "src_main_maptouchaxis",
+      "src_main_resolvetouchcandidate",
+      "src_main_touchcandidate",
+      "src_main_touchcandidate_action",
+      "src_main_touchcandidate_score",
+      "src_main_touchcandidate_transform",
+      "src_main_touchcandidate_x",
+      "src_main_touchcandidate_y",
+      "touchaction",
+      "touchtransform",
+      "ts_point"
+    ],
+    "8": [
+      "src_main_buildactivechart",
+      "src_main_chartpoint",
+      "src_main_chartpoint_cost",
+      "src_main_chartpoint_input",
+      "src_main_chartpoint_timestamp",
+      "src_main_chartpoint_usd",
+      "src_main_clampindex",
+      "src_main_currentrange",
+      "src_main_moveperiod",
+      "src_main_samedateprefix",
+      "src_main_samemonth",
+      "src_main_samemonthprefix"
+    ],
+    "9": [
+      "src_main_touchcalibration",
+      "src_main_touchcalibration_flipx",
+      "src_main_touchcalibration_flipy",
+      "src_main_touchcalibration_maxx",
+      "src_main_touchcalibration_maxy",
+      "src_main_touchcalibration_minx",
+      "src_main_touchcalibration_miny",
+      "src_main_touchcalibration_swapaxes",
+      "src_main_touchcalibration_valid"
+    ],
+    "10": [
+      "alertlevel",
+      "src_main_alertcolor",
+      "src_main_alertlevelfor",
+      "src_main_alertname",
+      "src_main_applyalertoutput",
+      "src_main_drawalertindicator",
+      "src_main_drawfooter",
+      "src_main_updatestatusled"
+    ],
+    "11": [
+      "src_main_livestats",
+      "src_main_livestats_ok",
+      "src_main_livestats_proxy",
+      "src_main_livestats_rtkcommands",
+      "src_main_livestats_rtkpct",
+      "src_main_livestats_rtksaved",
+      "src_main_livestats_timestamp",
+      "src_main_livestats_uptime"
+    ],
+    "12": [
+      "src_main_sessionstats",
+      "src_main_sessionstats_input",
+      "src_main_sessionstats_last",
+      "src_main_sessionstats_pct",
+      "src_main_sessionstats_requests",
+      "src_main_sessionstats_saved",
+      "src_main_sessionstats_usd"
+    ],
+    "13": [
+      "scripts_validate_frame",
+      "scripts_validate_frame_assert",
+      "scripts_validate_frame_assertnumber",
+      "scripts_validate_frame_frame",
+      "scripts_validate_frame_fs",
+      "scripts_validate_frame_line"
+    ],
+    "14": [
+      "src_main_daypoint",
+      "src_main_daypoint_cost",
+      "src_main_daypoint_date",
+      "src_main_daypoint_input",
+      "src_main_daypoint_saved",
+      "src_main_daypoint_usd"
+    ],
+    "15": [
+      "src_main_drawcard",
+      "src_main_drawmetricvalue",
+      "src_main_drawtextfit",
+      "src_main_formatmetric",
+      "src_main_formatmoney",
+      "src_main_formatnumber"
+    ],
+    "16": [
+      "src_main_waitingmatrixcolumn",
+      "src_main_waitingmatrixcolumn_heady",
+      "src_main_waitingmatrixcolumn_length",
+      "src_main_waitingmatrixcolumn_seed",
+      "src_main_waitingmatrixcolumn_speed",
+      "src_main_waitingmatrixcolumn_x"
+    ],
+    "17": [
+      "scripts_start_bridge_js_scripts_start_bridge",
+      "scripts_start_bridge_launcher",
+      "scripts_start_bridge_path",
+      "scripts_start_bridge_result",
+      "scripts_start_bridge_spawnsync"
+    ],
+    "18": [
+      "src_main_rawtouchpoint",
+      "src_main_rawtouchpoint_x",
+      "src_main_rawtouchpoint_y"
+    ],
+    "19": [
+      "scripts_install_autostart",
+      "scripts_install_autostart_write_utf8nobom"
+    ],
+    "20": [
+      "include_user_setup"
+    ],
+    "21": [
+      "scripts_start_bridge_ps1_scripts_start_bridge"
+    ],
+    "22": [
+      "scripts_stop_bridge"
+    ]
+  },
+  "cohesion": {
+    "0": 0.08412698412698413,
+    "1": 0.17803030303030304,
+    "2": 0.16733870967741934,
+    "3": 0.20935960591133004,
+    "4": 0.14492753623188406,
+    "5": 0.14210526315789473,
+    "6": 0.18128654970760233,
+    "7": 0.17647058823529413,
+    "8": 0.19696969696969696,
+    "9": 0.2222222222222222,
+    "10": 0.39285714285714285,
+    "11": 0.25,
+    "12": 0.2857142857142857,
+    "13": 0.4,
+    "14": 0.3333333333333333,
+    "15": 0.4,
+    "16": 0.3333333333333333,
+    "17": 0.4,
+    "18": 0.6666666666666666,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0
+  },
+  "gods": [
+    {
+      "id": "scripts_render_ui_preview_v3_s",
+      "label": "S()",
+      "degree": 18
+    },
+    {
+      "id": "src_main_viewstats",
+      "label": "ViewStats",
+      "degree": 16
+    },
+    {
+      "id": "src_main_rgb",
+      "label": "rgb()",
+      "degree": 15
+    },
+    {
+      "id": "src_main_renderscreen",
+      "label": "renderScreen()",
+      "degree": 15
+    },
+    {
+      "id": "scripts_render_ui_preview_v3_new_font",
+      "label": "New-Font()",
+      "degree": 13
+    },
+    {
+      "id": "src_main_parseview",
+      "label": "parseView()",
+      "degree": 12
+    },
+    {
+      "id": "src_main_runtouchaction",
+      "label": "runTouchAction()",
+      "degree": 12
+    },
+    {
+      "id": "src_main_buildlegacyviewsfromstate",
+      "label": "buildLegacyViewsFromState()",
+      "degree": 11
+    },
+    {
+      "id": "scripts_render_ui_preview_v3_core_s",
+      "label": "S()",
+      "degree": 11
+    },
+    {
+      "id": "scripts_render_ui_preview_v3_core_draw_header",
+      "label": "Draw-Header()",
+      "degree": 11
+    }
+  ],
+  "surprises": [
+    {
+      "source": "runTouchAction()",
+      "target": "TouchAction",
+      "source_files": [
+        "firmware/src/main.cpp",
+        "firmware/src/main.cpp"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "note": "Bridges community 7 \u2192 community 5"
+    },
+    {
+      "source": "formatChartXLabel()",
+      "target": "ChartPoint",
+      "source_files": [
+        "firmware/src/main.cpp",
+        "firmware/src/main.cpp"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "note": "Bridges community 8 \u2192 community 4"
+    },
+    {
+      "source": "parseChartArray()",
+      "target": "ChartPoint",
+      "source_files": [
+        "firmware/src/main.cpp",
+        "firmware/src/main.cpp"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "note": "Bridges community 8 \u2192 community 0"
+    },
+    {
+      "source": "drawChart()",
+      "target": "ViewStats",
+      "source_files": [
+        "firmware/src/main.cpp",
+        "firmware/src/main.cpp"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "note": "Bridges community 0 \u2192 community 6"
+    },
+    {
+      "source": "drawFooter()",
+      "target": "ViewStats",
+      "source_files": [
+        "firmware/src/main.cpp",
+        "firmware/src/main.cpp"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "note": "Bridges community 0 \u2192 community 10"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}

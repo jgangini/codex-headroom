@@ -1,0 +1,57 @@
+{
+  "firmware/include/User_Setup.h": {
+    "mtime": 1781932551.7875116,
+    "ast_hash": "f8989bf833f0e6fcd87d6f09da82e333",
+    "semantic_hash": "f8989bf833f0e6fcd87d6f09da82e333"
+  },
+  "firmware/src/main.cpp": {
+    "mtime": 1782185283.8658245,
+    "ast_hash": "79e76a0c305e2a6312ea48b39cb4d23f",
+    "semantic_hash": "79e76a0c305e2a6312ea48b39cb4d23f"
+  },
+  "scripts/headroom-live-bridge.ps1": {
+    "mtime": 1782185556.2697208,
+    "ast_hash": "9ab0c3c1fa585d7a78b7d46604940867",
+    "semantic_hash": "9ab0c3c1fa585d7a78b7d46604940867"
+  },
+  "scripts/install-autostart.ps1": {
+    "mtime": 1782186401.583412,
+    "ast_hash": "3ecbd4220f07a937915b2628fbfa900c",
+    "semantic_hash": "3ecbd4220f07a937915b2628fbfa900c"
+  },
+  "scripts/render-ui-preview-v3-core.ps1": {
+    "mtime": 1782181304.0691855,
+    "ast_hash": "3cea4704a63df98c5c849b51ac1083e7",
+    "semantic_hash": "3cea4704a63df98c5c849b51ac1083e7"
+  },
+  "scripts/render-ui-preview-v3.ps1": {
+    "mtime": 1782177991.959145,
+    "ast_hash": "52e55df9507d19763a39a34c17fd3cb1",
+    "semantic_hash": "52e55df9507d19763a39a34c17fd3cb1"
+  },
+  "scripts/start-bridge.js": {
+    "mtime": 1782185291.0087316,
+    "ast_hash": "8c13e6ebc2c9cc64c6ba1b331bc7f646",
+    "semantic_hash": "8c13e6ebc2c9cc64c6ba1b331bc7f646"
+  },
+  "scripts/start-bridge.ps1": {
+    "mtime": 1782185290.7647054,
+    "ast_hash": "7307eaf37b95293dffeb7e6999aae79b",
+    "semantic_hash": "7307eaf37b95293dffeb7e6999aae79b"
+  },
+  "scripts/stop-bridge.ps1": {
+    "mtime": 1782164374.0974593,
+    "ast_hash": "73a01e3dd938053e8c35cc1c17b17d11",
+    "semantic_hash": "73a01e3dd938053e8c35cc1c17b17d11"
+  },
+  "scripts/validate-frame.js": {
+    "mtime": 1782185965.0181293,
+    "ast_hash": "5575a6d964efb688b3468a4a04022019",
+    "semantic_hash": "5575a6d964efb688b3468a4a04022019"
+  },
+  "testdata/sample-hrm2.json": {
+    "mtime": 1782185946.7749891,
+    "ast_hash": "ed8b9a4517c4d382e29008424f873169",
+    "semantic_hash": "ed8b9a4517c4d382e29008424f873169"
+  }
+}
