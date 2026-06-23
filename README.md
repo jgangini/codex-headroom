@@ -98,6 +98,18 @@ Invoke-RestMethod http://127.0.0.1:8787/stats | ConvertTo-Json -Depth 8
 Invoke-RestMethod http://127.0.0.1:8787/stats-history | ConvertTo-Json -Depth 8
 ```
 
+Open the local dashboard in your browser:
+
+```text
+http://127.0.0.1:8787/dashboard
+```
+
+Notes:
+
+- `http://localhost:8787/dashboard` works too.
+- The correct path is `dashboard`, not `dasboard`.
+- Some Headroom documentation or builds mention `headroom dashboard`, but your local install may not expose that CLI subcommand. If the proxy is healthy, the browser route above is the most reliable way to open the dashboard.
+
 Useful CLI checks:
 
 ```powershell
@@ -206,6 +218,13 @@ powershell -ExecutionPolicy Bypass -File scripts\headroom-live-bridge.ps1 -Port 
 
 - Close PlatformIO monitor, Arduino IDE, or any serial terminal using the port
 - Wait a few seconds and let the bridge retry
+
+### The dashboard page does not open
+
+- Use `http://127.0.0.1:8787/dashboard` or `http://localhost:8787/dashboard`.
+- Double-check the spelling: `dashboard` is correct; `dasboard` will fail.
+- Confirm `http://127.0.0.1:8787/health` returns a healthy response first.
+- If the browser route works but `headroom dashboard` does not, your installed Headroom version likely does not expose that CLI command yet.
 
 ### Scheduled task registration fails
 
