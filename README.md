@@ -1,14 +1,8 @@
 # Codex Headroom
 
+[https://github.com/user-attachments/assets/](https://github.com/user-attachments/assets/9736873d-987f-48ae-bc20-c206d9f44182)
+
 Headroom + Codex on Windows, with an optional **ESP32-CYD near-real-time dashboard** that mirrors the local Headroom report on a small touchscreen device.
-
-## Demo Video
-
-Watch the recorded demo from this repository:
-
-[Open the demo video](docs/media/codex-headroom-demo.mov)
-
-![Codex Headroom dashboard preview](docs/media/dashboard-preview.png)
 
 ## What this project does
 
@@ -20,12 +14,6 @@ Watch the recorded demo from this repository:
 ## Architecture
 
 ![Codex Headroom architecture diagram](docs/media/codex-headroom-architecture.png)
-
-```text
-Codex -> Headroom proxy (127.0.0.1:8787) -> /health /stats /stats-history
-                                               |
-                                               +-> headroom-live-bridge.ps1 -> USB serial -> ESP32-CYD
-```
 
 - The **Headroom proxy** is the primary product.
 - The **CYD bridge** is the source of truth for the device runtime.
