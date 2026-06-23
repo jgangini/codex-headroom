@@ -20,6 +20,8 @@ Headroom + Codex on Windows, with an optional **ESP32-CYD near-real-time dashboa
 
 ## Architecture
 
+![Codex Headroom architecture diagram](docs/media/codex-headroom-architecture.png)
+
 ```text
 Codex -> Headroom proxy (127.0.0.1:8787) -> /health /stats /stats-history
                                                |
