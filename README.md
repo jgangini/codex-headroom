@@ -4,10 +4,9 @@ Headroom + Codex on Windows, with an optional **ESP32-CYD near-real-time dashboa
 
 ## Demo Video
 
-> Coming soon. This section is reserved for the GitHub-hosted demo video.
->
-> Replace this block later with your uploaded video URL, similar to:
-> `https://github.com/user-attachments/assets/...`
+Watch the recorded demo from this repository:
+
+[Open the demo video](docs/media/codex-headroom-demo.mov)
 
 ![Codex Headroom dashboard preview](docs/media/dashboard-preview.png)
 
